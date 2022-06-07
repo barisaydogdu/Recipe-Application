@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.foodapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Tarhana"></activity>
+        <activity android:name=".Mercimek" />
+        <activity android:name=".IzgaraHindi" />
+        <activity android:name=".NohutluSalata" />
+        <activity android:name=".Karnabahar" />
+        <activity android:name=".SebzeliMantar" />
+        <activity android:name=".Sutlac" />
+        <activity android:name=".Tiramusu" />
+        <activity android:name=".Guvec" />
+        <activity android:name=".DanaRosto" />
+        <activity android:name=".SuluKofte" />
+        <activity android:name=".TepsiKebabi" />
+        <activity android:name=".Pirzola" />
+        <activity android:name=".İcliKofte" />
+        <activity android:name=".TatliTarifleri" />
+        <activity android:name=".CorbaTarifleri" />
+        <activity android:name=".SebzeliYemekler" />
+        <activity android:name=".DiyetTarifleri" />
+        <activity android:name=".EtliYemekler" />
+        <activity android:name=".Liste" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+    </application>
+
+</manifest>

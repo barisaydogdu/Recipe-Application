@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">FoodApplication</string>
+    <string name="title_activity_tab_menu">TabMenu</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="deneme12">Deneme1</string>
+    <string name="ListView">liste</string>
+    <string name="slogan">Aradığınız bütün yemek tariflerini bir çatı altında topluyoruz.</string>
+    <string name="btn">Giriş Yap</string>
+    <string name="iclikofte">Kıymayı tencereye koyup suyunu çekene kadar kavurun.
+Suyunu çeken kıymaya yağı koyup biraz daha kavurduktan sonra doğranmış soğan ve sarımsağı da ekleyip kapağını kapatarak yumuşamaya bırakın.
+
+Yumuşadıktan sonra baharatları ekleyip ocağın altını kapatın ve soğumaya bırakın.
+
+Dış harcını hazırlamak için bulguru derin bir kaseye alıp üzerine tuzu ekleyerek sıcak suyunu koyun ve 15-20 dakika bekletin.
+
+Dinlenen bulgura irmik ve yumurtayı da ekleyip yoğurun.
+
+Arada elinizi suyla ıslatıp güzelce macun kıvamına gelen kadar yoğurun.
+
+Hamurdan ceviz büyüklüğünde parçalar alıp içini parmaklarınız yardımıyla oymaya başlayın.
+
+İnce bir tabaka halinde olan hamurun içine kıymalı harcı koyun ve yuvarlayarak kapatın.
+
+Hazırlanan içli köfteyi kaynamış sıcak suyun içine atıp 10 dakika haşlandıktan sonra çıkarın.
+
+Yanında eritilmiş tereyağıyla servis yapın.</string>
+    <string name="dakika">15 Dakika</string>
+    <string name="oyverin">Bu Tarife Bir Oy Verin !</string>
+    <string name="pirzola">             Soğanları ve sarımsakları rendeleyin.
+
+Derin bir kasede rendelediğiniz soğan, sarımsak, zeytinyağı, biber salçası ve baharatları karıştırın.
+
+Pirzolaları hazırladığınız bu marine sosunun içine ekleyip elinizle masaj yaparak güzelce yedirin.
+
+Üzerini streç filmle kapattığınız kaseyi birkaç saat buzdolabında dinlendirin.
+
+Fırın tepsisinin yabanına fırın kağıdını yayın.
+
+Etleri kağıdın üzerine yerleştirip kasenin dibinde kalan sosu etlerin üzerine gezdirin.
+
+Üzerini yeniden fırın kağıdıyla kapatıp güzelce paket yapın.
+
+Fırını 200 dereceye ayarlayıp etleri fırına verin.
+
+1 saat pişirdikten sonra etlerin üzerini örten fırın kağıdını alıp tepsiyi yeniden fırına verin.
+
+5 dakika boyunca üzeri kızarsın diye fırında tuttuğunuz etleri soğumadan servis yapın. Afiyet olsun!</string>
+    <string name="dakika2">30 Dakika</string>
+    <string name="tepsikebabi">Bir kapta veya pişireceğiniz tepside kıyma, soğan, maydanoz, sivri biber, sarımsak, kimyon, tuz, karabiber ve pul biberi karıştırıp iyice yoğurun.
+
+Malzemeler birbirine iyice karışınca, yuvarlak bir fırın tepsisine kıymalı karışımı iyice yayın ve ellerinizle üzerine bastırarak düzleştirin.
+
+Bıçak yardımıyla 8 dilim olacak şekilde dilimleyin.
+
+Eritilmiş tereyağını kebabın üzerine dökün ve fırça yardımıyla her yerine gelecek şekilde yayın.
+
+Biber salçası ile suyu karıştırın ve karışımı üzerine dökün.
+
+Boydan ikiye böldüğünüz biberleri ve dilimlediğiniz domatesleri üzerine güzelce dizdikten sonra 190 derece fırında 40 dakika pişirin ve sıcak servis edin.</string>
+    <string name="dakika4">40 Dakika</string>
+    <string name="sulukofte">Köfte için gerekli olan soğanı bir kaba rendeleyin ve diğer köfte malzemelerini de ilave ettikten sonra güzelce yoğurun. Ele yapışan bir kıvamı olacak.
+Bir tepsiye köfteleri bulmak için gerekli olan unu serpin ve elinizi her seferinde ıslatarak, köfte harcından minik minik kopartıp, yuvarlayın ve unlu tepsiye atın.
+Tüm harcı bu şekilde yaptıktan sonra, tepsiyi ileri geri sallayarak tüm köftelerin una bulanmasını sağlayın.
+Diğer soğanı da yemeklik doğrayın ve bir tencereye zeytinyağını aldıktan sonra, doğradığınız soğanları pembeleşene dek kavurun. Salçayı da ekleyip kavurduktan sonra, içerisine 3 su bardağı kadar sıcak su ekleyin ve kaynamaya başladıktan sonra içine hazırlamış olduğunuz köfteleri atın.
+Köftelerin üstüne çıkacak kadar daha sıcak su ilave edin ve baharatlarını da ekledikten sonra, altını kısıp yaklaşık 25 dakika bu şekilde pişmeye bırakın.
+
+Köfteler yumuşayıp, piştikten sonra da servis edin.</string>
+
+    <string name="danarosto">Ete lezzet katacak sarımsakların kabuklarını tek tek ayıklayın. Keskin bir bıçak ucu yardımıyla etin üzerine küçük boşluklar açın.
+
+Bütün sarımsakları arzuya göre tane karabiberler ile birlikte bu boşluklara yerleştirin.
+
+Etin üzerine ince çekilmiş deniz tuzu ve taze çekilmiş tane karabiber serpiştirin. Ayçiçek yağını döküm bir tavada kızdırın.
+
+Dana nuarı ateşe alıp aralarda kızartma çatalıyla çevirerek yüksek ateşte mühürleyin. Üzerine kekik serpip mühürleme işleminin sonuna doğru elma sirkesini ekleyin.
+
+Havuçların kabuklarını soyun. Kabuğunu soyduğunuz kuru soğanları ince piyazlık şeklinde doğrayın.
+
+Tereyağını ayrı bir tavada eritin. Doğranmış kuru soğanları hafif bir renk alana kadar soteleyin. Unu katıp renk alan soğanlarla birlikte kavurun.</string>
+
+    <string name="dakika50">50 Dakika</string>
+    <string name="guvec">Güvecin yapımına başlamak için kuyruk yağını küçük parçalar halinde doğrayın. Arpacık soğan ve sarımsakların kabuklarını soyduktan sonra bütün halde bırakın.
+
+Kabuklarını soyduğunuz havuçları, ince halkalar halinde doğrayın. Taze patateslerin kabuklarını fırçaladıktan sonra bol suda yıkayın. Eğer küçük boy taze patates kullanıyorsanız her birini kabuklarını soymadan iki eşit parçaya kesin.
+
+Ocak üzerine aldığınız büyük boy toprak güveci, kısık ateşte ısıtmaya başlayın.
+
+Küçük parçalar halinde doğradığınız kuyruk yağını güveç kabına alın. Zeytinyağı ilavesiyle eriyene kadar karıştırın.
+
+Kuşbaşı doğranmış kuzu etlerini katıp, kavurmaya başlayın. Arpacık soğan ve sarımsakları güveç kabına alıp, karıştırın.
+
+Etler renk almaya başladığında dilimlenmiş havuçları katın. Biber ve domates salçasını ekleyip sebzelerle birlikte karıştırın.
+
+Son olarak taze patatesleri güvece ekleyin, karıştırmayın. Hoş bir tat vermesi adına ayıkladığınız biberiye ve taze kekiği katın. Tuz ve taze çekilmiş tane karabiber, sıcak suyu ilave edin.
+
+Üzerini yağlı kağıtla hava almayacak şekilde kapladıktan sonra güveç tenceresinin kapağını kapatın. Kısık ateşte pişirerek kaynamaya bırakın.
+
+Kaynamaya başlayan güveci, kapağı kapalı olarak önceden ısıtılmış 200 derece fırına yerleştirin. Yaklaşık 80-90 dakika pişirin.</string>
+
+    <string name="tiramusu">Tiramisunun kremasını hazırlayarak işe başlayın. Orta boy bir tencereye unu, yumurtanın sarısını, şekeri, vanilyayı koyun.
+
+Üzerine sütü azar azar ekleyin ve karıştırın.
+
+Kıvamı iyice koyulaşana kadar karıştırarak pişirmeye devam edin.
+
+Kıvam aldığında ocaktan alın. İçerisine mascarpone peyniri ilave edin ve mikser yardımıyla yaklaşık 5 dakika kadar çırpın.
+
+Tekrar ocağa alın ve birkaç dakika daha bu şekilde pişirin. Altını kapatarak soğumaya bırakın.
+
+Bir kasenin içine su, şeker ve kahveyi alın, iyice karıştırın. 40×40 ebatlarındaki tepsiye, tepsiyi kaplayacak şekilde bisküvileri dizin.
+
+Bisküvilerin üzerine hazırladığımız karışımı azar azar kaşık ile dökün ya da bisküvileri bu karışıma batırıp çıkarın ve tepsiye dizin.
+
+Kremanın yarısını tepsiye dizdiğimiz bisküvilerin üzerine döküp, bir kaşık yardımıyla eşit miktarda dağıtın.
+
+Islatılmış bisküvilerin geriye kalanından bir kat daha çıkın. Üzerini kremanın geriye kalanıyla iyice kaplayın.
+
+Buzdolabından en az 4 saat bekletin. Servis etmeden önce tiramisunun üzerine çay süzgeci yardımıyla kakao serpin. Afiyet olsun.</string>
+
+    <string name="dakika15">15 Dakika</string>
+    <string name="sutlac">Bol suda yıkayıp suyunu süzdürdüğünüz 1ı pirinci, sıcak su ekleyerek yumuşayana kadar kaynatın.
+Haşlanan pirinçlerin üzerine sütü yavaş yavaş ilave edin.
+Toz şekeri tencereye aktarın ve karıştırarak şekerin erimesini sağlayın.Pirinç ununu tencereye aktarırken kesilmemesi için tenceredeki ısınan karışımdan 1-2 kaşık üzerine ekleyip, tekrardan tencereye yavaşça ve karıştırarak ekleyin.
+Pirinç ununu tencereye aktarırken kesilmemesi için tenceredeki ısınan karışımdan 1-2 kaşık üzerine ekleyip, tekrardan tencereye yavaşça ve karıştırarak ekleyin.
+Yaklaşık 10 dakika kadar sütlaç kıvamına alana dek orta-kısık ateşte bir spatulayla karıştırarak pişirin. Kıvam alan sütlacı, servis kaselerine paylaştırın.
+Oda sıcaklığında soğuduktan sonra buzdolabında en az 2 saat kadar bekletin ve soğuk olarak servis edin.</string>
+    <string name="dakika20">20 Dakika</string>
+    <string name="sebzelimantar">Bir tavaya sıvı yağ ve tereyağını koyarak ısıtın.
+
+Saplarını ayırdığınız mantarları tavaya alın ve kavurmaya başlayın.
+
+Arpacık soğanları tavaya ilave edin ve karıştırın.
+
+Dilimlenmiş sarımsak, tuz, karabiber, kekik ve yeşil biberi de ekleyerek tavada karıştırarak kavurmaya devam edin.
+
+Soyarak küp küp doğradığınız domatesleri de ekleyin ve karıştırın.
+
+Domatesler suyunu saldığında hellim peynirlerini tavanın içine gelişigüzel yerleştirin ve 180 derece fırında 30 dakika kadar pişirin. Sıcak servis edin, afiyet olsun!</string>
+    <string name="dakika10">10 Dakika</string>
+    <string name="karnabahar">Sert yapıda olan kök kısmını kestiğiniz ve yeşil yapraklarını temizlediğiniz orta boy karnabaharı, çiçeklerine ayırın.
+Karnabaharın kendine has kokusunu alması ve sindirimi rahatlatması adına tencereye aktardığınız unlu sıcak suda karnabaharları 6-8 dakika kadar haşlayın.
+Haşlanan karnabaharları suyunu süzdürdükten sonra bir kevgir yardımıyla servis tabağına çıkartın.
+Kızartma harcı için; ayrı bir kaba aldığınız yumurtalar, süt, un ve tuzu bir çırpıcı yardımıyla pürüzsüz bir kıvam alana kadar karıştırın.
+Sıvı yağı geniş tabanlı bir tavada kızdırın. Kızartma harcına tamamen batırdığınız haşlanmış karnabaharları, kızgın yağda altın sarısı renk alana kadar kızartın.
+Fazla yağını bırakması için kağıt havlu üzerinde beklettiğiniz kızarmış karnabaharları, ılık olarak arzuya göre yoğurt sosuyla birlikte servis edin. Sevdiklerinizle paylaşın.</string>
+    <string name="dakika25">25 Dakika</string>
+    <string name="nohutsalatasi">Haşlanmış nohut, cherry domates, salatalık ve tüm yeşillikleri bir kaseye alıp malzemeleri ezmeden birbirine karışacak şekilde harmanlayın.
+
+Ayrı bir kasede zeytinyağı, limon suyu ve nar ekşisini tuzu ekledikten sonra homojen bir karışım elde edene kadar çırpın.
+
+Sosu salatanın içine ekleyip karıştırın.
+
+Kaselere bölüştürüp servis edin.</string>
+    <string name="izgarahindi">Hindi göğüsleri soda, zeytinyağı, karabiber, tuz ve sarımsak tozuyla marine edin. Buz dolabında 30-35 dakika bekletin.
+
+Tavayı ısıtın.
+
+Isınan tavaya göğüsleri dizin ve kısık ateşte 10-15 dakika iki tarafını da pişirin.
+
+Soğanları iri iri doğrayın.
+
+Tabağın en altını soğanlarla kaplayın. Göğüsleri yerleştirin ve yeşilliklerle renklendirin.</string>
+<string name="mercimek">Derin bir tencereye 3 yemek kaşığı sıvı yağ ekleyin. İri doğranmış 1 adet büyük soğanı sıvı yağ ile birlikte kavurun.
+Kavrulan soğanlara 1 yemek kaşığı unu ekleyin ve kokusu çıkıp, renk alana kadar kavurma işlemini sürdürün. İri parçalar halinde doğradığınız birer adet havuç ve patatesi tencereye aktarıp karıştırmaya devam edin.
+Tuz, karabiber ve bol suda yıkadıktan sonra suyunu süzdürdüğünüz 1,5 su bardağı mercimeği  de ilave edin ve son kez güzelce karıştırın.
+6 su bardağı suyu da tencereye ilave edin.
+Ardından kapağını kapatın, patates ve havuçlar yumuşayana kadar ara ara karıştırarak 40 dakika kadar pişirin.
+Çorba piştikten sonra pürüzsüz bir kıvam alması için; el blenderından geçirin. 5 dakika daha pişirdikten sonra ocaktan alın.
+3 yemek kaşığı sıvı yağ ve 2 yemek kaşığı tereyağını bir tavada kızdırın. Üzerine 1 tatlı kaşığı toz kırmızı biberi ekleyin ve 2 dakika yağı kızdırdıktan sonra ocaktan alın.
+Çorbayı bir kaseye alın ve üzerine kızdırdığınız yağdan gezdirip servis edin.</string>
+    <string name="tarhana">1 su bardağı toz tarhanayı 1,5 su bardağı kadar sıcak et suyu ile karıştırıp yumuşaması için bekletin.
+2 yemek kaşığı ayçiçek yağını derin bir tencerede kızdırın. 2 diş ezilmiş sarımsak ve 1 tatlı kaşığı domates salçasını da ekleyin ve 2- 3 dakika kadar kavurun.
+Kalan 6 su bardağı sıcak et suyunu ilave edip, bir çırpıcı yardımıyla sürekli karıştırarak çorbanın kıvam almasını sağlayın.
+Kaynayan çorbayı bekletmeden sıcak olarak servis edin.Pişirdikçe koyulaşan bir çorba olduğu için daha sonra tüketecekseniz üzerine su ilave etmenizi öneririz. Afiyet olsun!</string>
+<string name="person23">2-3 Kişilik</string>
+<string name="person3">2 Kişilik</string>
+</resources>
